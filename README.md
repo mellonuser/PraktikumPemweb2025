@@ -1,0 +1,5 @@
+Proyek ini adalah sebuah website portofolio pribadi yang dikembangkan menggunakan HTML dan CSS, menonjolkan desain yang modern, responsif, dan profesional. 
+Tujuannya adalah untuk menyajikan profil, pengalaman kerja, proyek, dan detail kontak pengguna dalam format yang jelas dan elegan, didukung oleh skema warna yang kontras dan tipografi yang bersih. 
+Karena proyek ini bersifat statis (tidak memerlukan backend), proses instalasinya sangat sederhana: Anda cukup mengkloning repositori dari GitHub dan membuka file index.html langsung di web browser Anda.
+Untuk kustomisasi, Anda perlu mengedit file index.html untuk mengubah semua konten naratif, dan file style.css untuk menyesuaikan tampilan visual seperti warna atau layout. 
+Setelah selesai, proyek dapat dengan mudah disebarkan ke publik menggunakan layanan hosting statis gratis seperti GitHub Pages atau Netlify.
